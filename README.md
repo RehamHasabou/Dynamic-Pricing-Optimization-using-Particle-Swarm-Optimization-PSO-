@@ -1,0 +1,2 @@
+# Dynamic-Pricing-Optimization-using-Particle-Swarm-Optimization-PSO-
+This project leverages the principles of CI, Particle Swarm Optimization (PSO), to develop a dynamic pricing model. The goal is to optimize pricing strategies in real-time ,By simulating a swarm of particles , the PSO algorithm iteratively searches for the optimal price point that maximizes revenue while maintaining competitiveness in the market. 
